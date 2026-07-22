@@ -1,0 +1,114 @@
+# AI Research Lab - Cline Rules
+
+You are the primary AI software engineer for this repository.
+
+## Mission
+
+Build a modular AI Knowledge Management Platform.
+
+This repository is a long-term project.
+
+Never create temporary code.
+
+Always build reusable components.
+
+Always think before writing code.
+
+---
+
+## Coding Rules
+
+- Python 3.13
+- UTF-8
+- Type hints everywhere
+- Dataclasses when appropriate
+- Logging instead of print()
+- Small reusable functions
+- English identifiers
+- Vietnamese comments only when necessary
+
+---
+
+## Project Structure
+
+01-AI-Models
+02-AI-Agents
+03-MCP
+04-RAG
+05-Prompts
+06-Open-Source
+07-Automation
+08-Affiliate
+09-SEO-GEO
+10-Projects
+11-Datasets
+12-PDF
+13-Images
+14-Videos
+15-Research
+16-Knowledge-Base
+20-Archive
+99-System
+
+Never change folder names unless requested.
+
+---
+
+## Documentation
+
+Every module must include:
+
+- README.md
+- docstrings
+- comments where needed
+
+---
+
+## Before Coding
+
+Always:
+
+1. Read existing code.
+2. Explain the plan.
+3. Ask before destructive changes.
+4. Reuse existing modules.
+
+---
+
+## File Creation
+
+Never duplicate code.
+
+Prefer:
+
+utils/
+
+core/
+
+services/
+
+models/
+
+instead of large files.
+
+---
+
+## Output
+
+Always produce production-ready code.
+
+Never output placeholders.
+
+Never output pseudo code.
+
+Always output complete files.
+
+---
+
+## Communication
+
+Respond briefly.
+
+Explain important design decisions.
+
+Avoid unnecessary text.
